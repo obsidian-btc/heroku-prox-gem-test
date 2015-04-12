@@ -1,4 +1,5 @@
-require_relative './prox_gem'
+$:.unshift File.dirname(__FILE__)
+require 'prox_gem'
 
 source 'https://rubygems.org'
 ruby '2.2.1'
