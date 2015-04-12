@@ -1,10 +1,16 @@
 
-# ENV
 
+# Setup
+
+### `ENV` VARIABLES
 PROX_GEM_GIT_URI=https://git@github.com/sinatra
 PROX_GEM_MODE=git
 
-Tags:
+
+# Tags
+
+As I worked toward getting this working, I tagged some commits.  Here are the names and how they did
+
 * `prox_gem_file` - Can't parse
 * `prox_gem_inlined` - Works fine
 * `prox_gem_require_relative_proper_path` - Can't parse
